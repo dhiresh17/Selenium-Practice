@@ -1,0 +1,10 @@
+com\PageObjectModel\BillingInfoPage.class
+com\Utility\ActionMethods.class
+com\Utility\ConfigReader.class
+com\PageObjectModel\Homepage.class
+com\Utility\BrowserSelect.class
+com\PageObjectModel\CatalogPage.class
+com\PageObjectModel\PlaceOrderPage.class
+com\StepDef\GMOStepDefinition.class
+com\PageObjectModel\OrderConfirmPage.class
+com\Runner\TestRunner.class
